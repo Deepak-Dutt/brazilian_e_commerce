@@ -1,0 +1,22 @@
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+background/
+.env
+
+# General
+dist/
+build/
+*.o
+*.so
+*.exe
